@@ -1,4 +1,4 @@
-# NEW YORK CITY
+<h1 align="center"> NEW YORK CITY</h1>
 
 *****
 
@@ -73,3 +73,5 @@ Here are some sayings of famous people about BIG APPLE:
 ## ***New York Food & Drink Events***
 
 With traditions from around the world combined with the bounty of our farms, orchards and vineyards, New York offers food journeys like nowhere else. All year long, celebrated restaurants, culinary tours, farm markets, wineries and craft breweries serve up whatever your heart (or palate) desires! Restaurant Week is held in many regions of the state, and it’s where you can sample a variety of well-known chef’s culinary delights for a fraction of the cost. Festivals and Top Events also include chili, hot wings and barbecue cook-offs while wine trails feature specials year-round. There’s something to please every taste and budget in [New York](https://github.com/zherdvaleriy/trip#new-york-city) State! 
+
+<img src="https://media.giphy.com/media/l1IY2AbVzZ6f7tGQo/giphy.gif"/>
