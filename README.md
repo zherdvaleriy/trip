@@ -1,6 +1,15 @@
-<h1 align="center">NEW YORK CITY</h1>         
+<h1 align="center">NEW YORK CITY</h1> 
+
+****
+
+<p align="center"><img width="860" src="https://media.giphy.com/media/3gEFiAYiHJJCg/giphy.gif"/></p>
 
 *****
+<h2 align="center"> :waxing_crescent_moon: THE CITY WHICH NEVER SLEEPS :sunrise: </h1> 
+
+
+
+
 
 ![](https://images.pexels.com/photos/1239162/pexels-photo-1239162.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
@@ -75,3 +84,4 @@ Here are some sayings of famous people about BIG APPLE:
 With traditions from around the world combined with the bounty of our farms, orchards and vineyards, New York offers food journeys like nowhere else. All year long, celebrated restaurants, culinary tours, farm markets, wineries and craft breweries serve up whatever your heart (or palate) desires! Restaurant Week is held in many regions of the state, and it’s where you can sample a variety of well-known chef’s culinary delights for a fraction of the cost. Festivals and Top Events also include chili, hot wings and barbecue cook-offs while wine trails feature specials year-round. There’s something to please every taste and budget in [New York](https://github.com/zherdvaleriy/trip#new-york-city) State! 
 
 <p align="center"><img width="860" src="https://media.giphy.com/media/PusBKwc3wHzWw/giphy.gif"/></p>
+
