@@ -34,7 +34,7 @@ Cool, cosmopolitan, crowded, constantly evolving … the Big Apple blends big ci
    
 [See full ranking list :arrow_down_small:](https://travel.usnews.com/New_York_NY/Things_To_Do/)
 
-Here are some sayings of famous people about BIG APPLE]():
+Here are some sayings of famous people about [BIG APPLE](https://lavocedinewyork.com/en/new-york/2022/09/10/how-did-new-york-city-get-its-nickname-the-big-apple/):
 --
 *****
 * Mark Twain:
@@ -81,7 +81,10 @@ Here are some sayings of famous people about BIG APPLE]():
 
 ## ***New York Food & Drink Events***
 ``
-With traditions from around the world combined with the bounty of our farms, orchards and vineyards, New York offers food journeys like nowhere else. All year long, celebrated restaurants, culinary tours, farm markets, wineries and craft breweries serve up whatever your heart (or palate) desires! Restaurant Week is held in many regions of the state, and it’s where you can sample a variety of well-known chef’s culinary delights for a fraction of the cost. Festivals and Top Events also include chili, hot wings and barbecue cook-offs while wine trails feature specials year-round. There’s something to please every taste and budget in [New York](https://github.com/zherdvaleriy/trip#new-york-city) State!
+With traditions from around the world combined with the bounty of our farms, orchards and vineyards, New York offers food journeys like nowhere else. All year long, celebrated restaurants, culinary tours, farm markets, wineries and craft breweries serve up whatever your heart (or palate) desires! Restaurant Week is held in many regions of the state, and it’s where you can sample a variety of well-known chef’s culinary delights for a fraction of the cost. Festivals and Top Events also include chili, hot wings and barbecue cook-offs while wine trails feature specials year-round. There’s something to please every taste and budget in [New York](https://github.com/zherdvaleriy/trip#new-york-city) State!                     
+The annual NYC Wine and Food Festival on October 14 to 17 is the largest food festival in NYC. The event has raised over $11.5 million to help benefit the charities “No Kid Hungry” and “Food Bank for New York City.” This four-night festival features the very best food in NYC along with intimate dinners and insightful demonstrations by the chefs that prepared it. Creme-de-la-creme chefs include Food Network star Bobby Flay, Andrew Zimmern, three-time James Beard award-winner for his Korean steakhouses, Michelin-starred Daniel Boulud of Café Boulud, and internet sensation Nusret “Salt Bae” Gökçe.
+It will also contain special events, parties, and celebrity mixers at iconic locations like the rooftop of Pier 92. Italian-style apperitivos, 90s cocktail parties, and rooftop BBQs offer nonstop night-time fun. Aspiring chefs and bartenders can even learn the arts of sushi-rolling, cake-decorating, and cocktail-blending from masters of the industry.
+New this year to the festival is God’s Love Delivers, which focuses on nutrition and medical meals. Experience cooking demonstrations, tastings, dinners, $100 and under meals, brunches, cocktails, family fun and plenty more.
 ``
 
 <p align="center"><img width="860" src="https://media.giphy.com/media/PusBKwc3wHzWw/giphy.gif"/></p>
