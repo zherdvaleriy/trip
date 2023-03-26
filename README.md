@@ -24,7 +24,7 @@ Cool, cosmopolitan, crowded, constantly evolving … the Big Apple blends big ci
        1.The Mark
        2.Baccarat Hotel New York
        3.The St. Regis New York
-[See full ranking list :arrow_down_small:](https://travel.usnews.com/hotels/New_York_NY/)
+[See full ranking list	:point_right: :page_facing_up:](https://travel.usnews.com/hotels/New_York_NY/)
 
  -  Best Things to Do in New York City :us:
 
@@ -32,7 +32,7 @@ Cool, cosmopolitan, crowded, constantly evolving … the Big Apple blends big ci
         2. National September 11 Memorial & Museum
         3. Empire State Building
    
-[See full ranking list :arrow_down_small:](https://travel.usnews.com/New_York_NY/Things_To_Do/)
+[See full ranking list	:point_right: :page_facing_up:](https://travel.usnews.com/New_York_NY/Things_To_Do/)
 
 Here are some sayings of famous people about [BIG APPLE](https://lavocedinewyork.com/en/new-york/2022/09/10/how-did-new-york-city-get-its-nickname-the-big-apple/):
 --
