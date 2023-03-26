@@ -34,7 +34,7 @@ Cool, cosmopolitan, crowded, constantly evolving … the Big Apple blends big ci
    
 [See full ranking list :arrow_down_small:](https://travel.usnews.com/New_York_NY/Things_To_Do/)
 
-Here are some sayings of famous people about BIG APPLE:
+Here are some sayings of famous people about BIG APPLE]():
 --
 *****
 * Mark Twain:
@@ -80,8 +80,9 @@ Here are some sayings of famous people about BIG APPLE:
 ---
 
 ## ***New York Food & Drink Events***
-
-With traditions from around the world combined with the bounty of our farms, orchards and vineyards, New York offers food journeys like nowhere else. All year long, celebrated restaurants, culinary tours, farm markets, wineries and craft breweries serve up whatever your heart (or palate) desires! Restaurant Week is held in many regions of the state, and it’s where you can sample a variety of well-known chef’s culinary delights for a fraction of the cost. Festivals and Top Events also include chili, hot wings and barbecue cook-offs while wine trails feature specials year-round. There’s something to please every taste and budget in [New York](https://github.com/zherdvaleriy/trip#new-york-city) State! 
+``
+With traditions from around the world combined with the bounty of our farms, orchards and vineyards, New York offers food journeys like nowhere else. All year long, celebrated restaurants, culinary tours, farm markets, wineries and craft breweries serve up whatever your heart (or palate) desires! Restaurant Week is held in many regions of the state, and it’s where you can sample a variety of well-known chef’s culinary delights for a fraction of the cost. Festivals and Top Events also include chili, hot wings and barbecue cook-offs while wine trails feature specials year-round. There’s something to please every taste and budget in [New York](https://github.com/zherdvaleriy/trip#new-york-city) State!
+``
 
 <p align="center"><img width="860" src="https://media.giphy.com/media/PusBKwc3wHzWw/giphy.gif"/></p>
 
