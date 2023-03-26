@@ -1,4 +1,4 @@
-<h1 align="center">NEW YORK CITY</h1>
+<h1 align="center">NEW YORK CITY</h1>         
 
 *****
 
@@ -10,14 +10,14 @@ Cool, cosmopolitan, crowded, constantly evolving … the Big Apple blends big ci
 ******
 
 ***
--  Best Hotels in New York City
+-  Best Hotels in New York City :us:
     
        1.The Mark
        2.Baccarat Hotel New York
        3.The St. Regis New York
 [See full ranking list :arrow_down_small:](https://travel.usnews.com/hotels/New_York_NY/)
 
- -  Best Things to Do in New York City
+ -  Best Things to Do in New York City :us:
 
         1. Central Park
         2. National September 11 Memorial & Museum
@@ -74,4 +74,4 @@ Here are some sayings of famous people about BIG APPLE:
 
 With traditions from around the world combined with the bounty of our farms, orchards and vineyards, New York offers food journeys like nowhere else. All year long, celebrated restaurants, culinary tours, farm markets, wineries and craft breweries serve up whatever your heart (or palate) desires! Restaurant Week is held in many regions of the state, and it’s where you can sample a variety of well-known chef’s culinary delights for a fraction of the cost. Festivals and Top Events also include chili, hot wings and barbecue cook-offs while wine trails feature specials year-round. There’s something to please every taste and budget in [New York](https://github.com/zherdvaleriy/trip#new-york-city) State! 
 
-<img src="https://media.giphy.com/media/PusBKwc3wHzWw/giphy.gif"/>
+<p align="center"><img width="860" src="https://media.giphy.com/media/PusBKwc3wHzWw/giphy.gif"/></p>
