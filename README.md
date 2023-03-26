@@ -1,4 +1,4 @@
-<h1 align="center"> NEW YORK CITY</h1>
+<h1 align="center">NEW YORK CITY</h1>
 
 *****
 
